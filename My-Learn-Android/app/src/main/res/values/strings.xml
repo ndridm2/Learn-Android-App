@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Learn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_camera">Picture</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_title">Other</string>
+    <string name="menu_quote">Quotes</string>
+    <string name="menu_hotel">Hotel</string>
+    <string name="menu_subway">Subway</string>
+    <string name="menu_case">Case</string>
+
+    <!-- profile drawer -->
+    <string name="name_title">Andri Dm</string>
+    <string name="email_title">andri.dm@mail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart_fragment">This is cart fragment</string>
+    <string name="subway_activity">This is Subway activity</string>
+    <string name="tab_text_1">MRT</string>
+    <string name="tab_text_2">LRT</string>
+    <string name="tab_text_3">KRL</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+
+    <string name="start">Start Task</string>
+    <string name="status">Status</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="compressing">Compresssing %d %%</string>
+    <string name="hidden_text">andridm</string>
+
+    <string name="quote">When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when… they are FORGOTTEN.</string>
+    <string name="author">- Dr. Hiluluk</string>
+    <string name="show_quotes">Show me list of quotes</string>
+
+</resources>

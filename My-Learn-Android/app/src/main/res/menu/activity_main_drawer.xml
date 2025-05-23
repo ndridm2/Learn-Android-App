@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+    </group>
+
+    <item android:title="@string/menu_title">
+        <menu>
+            <item
+                android:id="@+id/nav_quote"
+                android:icon="@drawable/baseline_dialpad"
+                android:title="@string/menu_quote"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_case"
+                android:icon="@drawable/ic_baseline_analytics"
+                android:title="@string/menu_case"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_hotel"
+                android:icon="@drawable/ic_hotel"
+                android:title="@string/menu_hotel" />
+            <item
+                android:id="@+id/nav_subway"
+                android:icon="@drawable/ic_subway"
+                android:title="@string/menu_subway" />
+        </menu>
+    </item>
+</menu>
